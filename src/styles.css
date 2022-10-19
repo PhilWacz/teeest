@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+.col-3 {
+  background-color: lightgrey;
+  height: 250px;
+  border-style: solid;
+  border-color: black;
+}
